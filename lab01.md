@@ -1,16 +1,41 @@
 ---
 layout: default
-title: 请将标题写在这里
+title: Git的配置故事
 ---
 
-# 我的博客标题
+# 科学配置Git
 
-## 1、你会使用 vscode 编辑 markdown 了吗？
+## 邪门歪道的非官方流程
 
-你会使用 git bash 创建本地空间了吗？
+###1、拜拜命令行
 
-你能拉取本文档到本地了？它在 gh-pages 分支内，设置 Slate 主题！
+好吧我承认console是好东西，用这样的方式使用Git确实很正确。
+但我不是那种勤快人啊，况且作业布置下去四天班上一半人以各种方式向我提出各种意想不到的问题，每个人都在用自己的方式去pull和push，然后，就报错了。
+对报错信息一知半解的人总会干出一些意想不到的事情，然后又获得了新的错误。
+所以还是用GUI吧。
 
-用 vscode 编辑它，然后提交！
+###2、GUI的选择
 
-这个文档将发布在 https://your-account.github.io/homework 中！
+其实程序设计的老师给了大家一份Ubuntu的snapshot，不过大家好像还是乐于在Windows下面完成工作。
+在我动手之前就有一个老哥选择了tortoiseGit，为了以示不跟风，好吧，Github for Windows，决定就是你了。
+
+###3、Github for Windows的安装
+
+安装其实还真没什么，至少某种意义上非常简便，我连指定安装路径就让我login了。
+![](/images/Installation-1.png "相信我前面啥也没有")
+
+###4、开始使用
+
+登陆之后的界面，其实还是很清爽的
+![](/images/Interface.png)
+
+How to Clone
+![](/images/Clone.png)
+
+Clone的结果
+![](/images/Result_of_clone.png "作业还没动呢当然没有")
+
+写完记得Commit
+
+那么大个左下角我第一次居然没看见
+![](/images/Commit.png)
