@@ -22,20 +22,24 @@ title: Git的配置故事
 ###3、Github for Windows的安装
 
 安装其实还真没什么，至少某种意义上非常简便，我连指定安装路径就让我login了。
-![](/images/Installation-1.png "相信我前面啥也没有")
+![](images/Installation-1.png "相信我前面啥也没有")
 
 ###4、开始使用
 
 登陆之后的界面，其实还是很清爽的
-![](/images/Interface.png)
+![](images/Interface.png)
 
 How to Clone
-![](/images/Clone.png)
+![](images/Clone.png)
 
 Clone的结果
-![](/images/Result_of_clone.png "作业还没动呢当然没有")
+![](images/Result_of_clone.png "作业还没动呢当然没有")
 
 写完记得Commit
 
 那么大个左下角我第一次居然没看见
-![](/images/Commit.png)
+![](images/Commit.png)
+
+###5、赶紧去查看效果
+
+我居然在图片地址前面插入了一个"/"，我说怎么没有图呢······
