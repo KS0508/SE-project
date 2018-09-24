@@ -2,7 +2,6 @@
 layout: default
 ---
 
-## 1.基本特性
 **粗体**
 _斜体_
 ~~删除线~~
@@ -88,6 +87,3 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 When $a \ne 0$, there are two solutions to \(ax^2 + bx + c = 0\) and they are
 $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 
-### 如何将一段markdown代码展示出来
-<div>When $a \ne 0$, there are two solutions to \(ax^2 + bx + c = 0\) and they are
-$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$</div>
