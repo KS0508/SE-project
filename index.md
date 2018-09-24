@@ -9,9 +9,7 @@
 
 1. [我的 Markdown 博客](lab01)
 
+## Demo
 
-## 并无变化的Demo
-
-Demo只是fork送的罢了，将来会很interesting呢，不过现在。。。
-[平淡无奇](demo)
+[真的要看吗](demo)
 

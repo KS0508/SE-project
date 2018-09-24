@@ -2,130 +2,92 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+## 1.基本特性
+**粗体**
+_斜体_
+~~删除线~~
+`关键字`
 
-[Link to another page](another-page).
+[超链接](https://ks0508.github.io/SE-project/)
 
-There should be whitespace between paragraphs.
+# 一级标题
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+正常段落
 
-# [](#header-1)Header 1
+## 二级标题
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+> 引用段落
 
-## [](#header-2)Header 2
+### 三级标题
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+展示特定语言代码
 
-### [](#header-3)Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
+```python
+// Python Code
+def hello(echo):
+    print("hello world" + echo)
+    return
 ```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+#### 四级标题
 
-#### [](#header-4)Header 4
+*   可以这样分点陈述。
+*   可以这样分点陈述。
+*   可以这样分点陈述。
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+##### 五级标题
 
-##### [](#header-5)Header 5
+1.  还可以这样分点陈述
+2.  还可以这样分点陈述
+3.  还可以这样分点陈述
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+###### 六级标题
 
-###### [](#header-6)Header 6
+| 左对齐   | 居中      |右对齐 |
+|:---------|:---------:|------:|
+| ok      | 666666    | 牛逼  |
+| o**k    | 7777777   | nice  |
+| ok       | 88888888  | 吼    |
+| ok       | 999999999 | 很棒棒 |
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+### 分割线
 
 * * *
 
-### Here is an unordered list:
+### 缩进列表
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+- 第一级
+  - 第二级
+  - 第二级
+    - 第三级
+    - 第三级
 
-### And an ordered list:
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
+### 插入图片
 
 ![](https://guides.github.com/activities/hello-world/branching.png)
 
 
-### Definition lists can be used with HTML syntax.
+### 你也可以使用HTML的标签
 
 <dl>
 <dt>Name</dt>
-<dd>Godzilla</dd>
+<dd>Your Dad</dd>
 <dt>Born</dt>
-<dd>1952</dd>
+<dd>Before You</dd>
 <dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
+<dd>None of your business</dd>
 </dl>
 
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
 ```
 
-### Formule
+### 公式
 
 When $a \ne 0$, there are two solutions to \(ax^2 + bx + c = 0\) and they are
 $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 
+### 如何将一段markdown代码展示出来
 <div>When $a \ne 0$, there are two solutions to \(ax^2 + bx + c = 0\) and they are
 $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$</div>
-
-```
-The final element.
-```
