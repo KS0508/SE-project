@@ -16,7 +16,7 @@ title: Git的配置故事
 
 ###2、GUI的选择
 
-其实程序设计的老师给了大家一份Ubuntu的snapshot，不过大家好像还是乐于在Windows下面完成工作。
+其实程序设计的老师给了大家一份Ubuntu的snapshot，在Linux下面工作也是不错的选择，不过大家好像还是乐于在Windows下面完成工作。
 在我动手之前就有一个老哥选择了tortoiseGit，为了以示不跟风，好吧，Github for Windows，决定就是你了。
 
 ###3、Github for Windows的安装
@@ -35,11 +35,11 @@ How to Clone
 Clone的结果
 ![](images/Result_of_clone.png "作业还没动呢当然没有")
 
-写完记得Commit
+编写完自己的代码记得Commit
 
-那么大个左下角我第一次居然没看见
+那么大个Commit在左下角我第一次居然没看见
 ![](images/Commit.png)
 
-###5、赶紧去查看效果
+###5、检查push是否成功
 
 我居然在图片地址前面插入了一个"/"，我说怎么没有图呢······

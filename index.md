@@ -1,13 +1,13 @@
-# 18342085 Kevin's index of SWI homework
+# 18342085 Kevin's index of homework
 
-## 课后作业
+## 七七八八的作业
 
-1. [01 Wikipedia's definition](hw01)
+1. [Wikipedia's definition](hw01)
 
 
-## 实验与实践
+## 七七八八的项目和实践
 
-1. [01 我的 Markdown 博客](lab01)
+1. [我的 Markdown 博客](lab01)
 
 
 ## 并无变化的Demo
