@@ -2,12 +2,16 @@
 
 ## 七七八八的作业
 
-1. [Wikipedia's definition](hw01)
-
+1. [Introduction](hw01)
+2. [Number System](hw02)
+3. [Data Representation I](hw03)
+4. [Data Representation II](hw04)
 
 ## 七七八八的项目和实践
 
 1. [我的 Markdown 博客](lab01)
+2. [HTML5游戏设计 I](lab02)
+3. [HTML5游戏设计 II](lab03)
 
 ## Demo
 
