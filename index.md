@@ -6,6 +6,7 @@
 2. [Number System](hw02)
 3. [Data Representation I](hw03)
 4. [Data Representation II](hw04)
+5. [Gates and Circuits](hw05)
 
 ## 七七八八的项目和实践
 
