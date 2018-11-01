@@ -8,6 +8,7 @@
 4. [Data Representation II](hw04)
 5. [Gates and Circuits](hw05)
 6. [Computing Components](hw06)
+7. [Programming Barely](hw07)
 
 ## 七七八八的项目和实践
 
