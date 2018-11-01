@@ -16,7 +16,7 @@ PIPPIN的汇编语言指令和对应的机器语言指令<br>
 大家的IE11（是的没说你Edge）首先要设置兼容性视图，将smith.edu添加进去。<br>
 其次，要安装老版的JRE，这个要安装的JRE有多老呢，打开安装文件的界面上写的居然是Sun！天哪！<br>
 安装文件在班群里面，大家自行下载安装，两个文件都要装。<br>
-[相信你看到这不会开班群]
+[相信你看到这不会开班群](jre.zip)<br>
 装完打开[这个页面](http://www.science.smith.edu/~jcardell/Courses/CSC103/CPUsim/cpusim.html)，
 会在下面弹出这个<br>
 ![](Warning.png)
