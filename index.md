@@ -9,6 +9,8 @@
 5. [Gates and Circuits](hw05)
 6. [Computing Components](hw06)
 7. [Programming Barely](hw07)
+8. [Problem Solving and Algorithm](hw08)
+9. [Problem Solving and OO Design](hw09)
 
 ## 课后项目和实践
 
@@ -17,9 +19,8 @@
 3. [《数学之美》推荐](lab03)
 4. [声音和编码](lab04)
 5. [汇编实验报告](lab05)
+6. [造一台洗衣机](lab06)
+7. [有关IT的伦理与道德](lab07)
+8. [Python实验报告](lab08)
+9. [HTML5游戏设计 II](lab09)
 
-
-
-
-
-[](demo)
