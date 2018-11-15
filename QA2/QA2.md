@@ -52,4 +52,4 @@
 [Sympy官方示例](https://github.com/sympy/sympy/wiki/Quick-examples)<br>
 [Matplotlib官方入门教程](https://matplotlib.org/3.0.2/tutorials/introductory/pyplot.html)<br>
 
-![用Python做科学计算，比较老了](http://bigsec.net/b52/scipydoc/)<br>
+[用Python做科学计算，比较老了](http://bigsec.net/b52/scipydoc/)<br>
