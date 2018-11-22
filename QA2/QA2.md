@@ -9,7 +9,7 @@
 
 ## Q：那Winpython要怎么安装呢？
 ### A：
-首先你要下载WinPython，[原版下载链接](https://nchc.dl.sourceforge.net/project/winpython/WinPython_3.6/3.6.7.0/WinPython64-3.6.7.0Qt5.exe)[校园网高速镜像](http://172.19.31.119:8000/WinPython64-3.6.7.0Qt5.exe)<br>
+首先你要下载WinPython，[原版下载链接](https://nchc.dl.sourceforge.net/project/winpython/WinPython_3.6/3.6.7.0/WinPython64-3.6.7.0Qt5.exe)<br>
 下载完执行安装，当然有一点要注意，为了后续出现问题时更快解决，请阅读这份教程的朋友在设置安装路径时，**务必**按照下图进行。<br>
 ![](install_path.png)
 安装完之后请在安装目录 **C:\winpython** 文件夹中找到 **WinPython Control Panel** 程序并运行。界面如下图所示。<br>
