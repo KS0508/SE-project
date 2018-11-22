@@ -11,6 +11,7 @@
 7. [Programming Barely](hw07)
 8. [Problem Solving and Algorithm](hw08)
 9. [Problem Solving and OO Design](hw09)
+10. [Abstract Data Types and Algorithms](hw10)
 
 ## 课后项目和实践
 
@@ -23,3 +24,5 @@
 7. [Python实验报告](lab07)
 8. [HTML5游戏设计 II](lab08)
 9. [有关IT的伦理与道德](lab09)
+10. [字符游戏-贪吃蛇](lab10)
+11. [字符游戏-智能智能蛇](lab11)
