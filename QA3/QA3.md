@@ -1,9 +1,9 @@
 ## Markdown语法手册
 
-[Github官方手册英文版](https://guides.github.com/features/mastering-markdown/)
-[CmdMarkdown编辑器简明语法手册中文版](https://www.zybuluo.com/mdeditor?url=https%3A%2F%2Fwww.zybuluo.com%2Fstatic%2Feditor%2Fmd-help.markdown)
-[前者在Github里的版本](https://github.com/gnipbao/markdown-handbook)
-[公式输入语法手册完全版](https://www.zybuluo.com/codeep/note/163962)
+[Github官方手册英文版](https://guides.github.com/features/mastering-markdown/)<br>
+[CmdMarkdown编辑器简明语法手册中文版](https://www.zybuluo.com/mdeditor?url=https%3A%2F%2Fwww.zybuluo.com%2Fstatic%2Feditor%2Fmd-help.markdown)<br>
+[前者在Github里的版本](https://github.com/gnipbao/markdown-handbook)<br>
+[公式输入语法手册完全版](https://www.zybuluo.com/codeep/note/163962)<br>
 
 以上都是一些比较规范的语法手册，但是GitHub的markdown解析有几个槽点：
 1. 标题的#要和标题内容之间有一个空格。
@@ -32,9 +32,9 @@
 ##### 3.导入并启动虚拟机
 
 如图所示找到注册按钮并点击
-![](register.png)
+![](register.png)<br>
 找到镜像文件解压后的文件夹并打开，选择其中的SWI.vbox并打开
-![](choose.png)
+![](choose.png)<br>
 之后如图所示选择该虚拟机并按点击启动按钮。
-![](start.png)
+![](start.png)<br>
 启动成功后，虚拟机内系统桌面上另有一份使用须知。
